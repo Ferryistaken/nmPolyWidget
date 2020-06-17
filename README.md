@@ -3,7 +3,8 @@ A rust program which prints information about a specified interface using Networ
 
 
 ## Installation
-Make sure that ```cargo``` is intalled.
+Make sure that ```cargo``` and ```git``` are intalled.  
+Then paste this commands one by one in the terminal
 
 ```git clone https://github.com/Ferryistaken/nmPolyWidget.git```  
 ```cd nmPolyWidget/```  
